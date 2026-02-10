@@ -1,4 +1,4 @@
-# 七年级网络综合实验平台
+<h1 align=center>七年级网络综合实验平台</h1>
 
 **综合网络知识实验与巩固工具**<br>
 [https://netlabx.vercel.app/](https://netlabx.vercel.app/)
